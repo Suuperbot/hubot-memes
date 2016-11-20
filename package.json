@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "hubot": ">= 2.4.0",
-    "coffee-script": "~1.6"
+    "coffee-script": "~1.11.1"
   },
   "devDependencies": {
     "mocha": "*",
